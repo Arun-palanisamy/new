@@ -1,7 +1,7 @@
 <?php
 
-$x = 150;
-$y = 100;
+$x = 1500;
+$y = 1000;
 
 // Performs Arithmetic operations
 // and display the result
