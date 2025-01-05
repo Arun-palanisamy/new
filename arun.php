@@ -1,6 +1,6 @@
 <?php
 
-$x = 1500;
+$x = 15;
 $y = 1000;
 
 // Performs Arithmetic operations
